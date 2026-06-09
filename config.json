@@ -1,0 +1,46 @@
+{
+  "poll_interval_minutes": 60,
+  "max_articles_per_feed": 3,
+  "categories": {
+    "defence": {
+      "label": "EU Defence & Security",
+      "emoji": "🛡️",
+      "color": 0xe74c3c,
+      "feeds": [
+        "https://www.nato.int/cps/en/natohq/news.rss",
+        "https://eda.europa.eu/news-and-events/rss",
+        "https://www.sipri.org/rss/news"
+      ]
+    },
+    "economy": {
+      "label": "EU Economy",
+      "emoji": "📈",
+      "color": 0x3498db,
+      "feeds": [
+        "https://ec.europa.eu/commission/presscorner/api/rss?type=IP&category=ECONOMY",
+        "https://www.ecb.europa.eu/rss/press.html",
+        "https://ec.europa.eu/eurostat/web/main/news/rss"
+      ]
+    },
+    "ecology": {
+      "label": "EU Ecology & Climate",
+      "emoji": "🌱",
+      "color": 0x2ecc71,
+      "feeds": [
+        "https://www.eea.europa.eu/rss",
+        "https://climate.ec.europa.eu/news/rss",
+        "https://ec.europa.eu/commission/presscorner/api/rss?type=IP&category=ENVIRONMENT"
+      ]
+    },
+    "federalism": {
+      "label": "EU Politics & Integration",
+      "emoji": "🇪🇺",
+      "color": 0x9b59b6,
+      "feeds": [
+        "https://www.politico.eu/feed/",
+        "https://www.euractiv.com/feed/",
+        "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml"
+      ]
+    }
+  }
+}
