@@ -37,8 +37,8 @@
       "emoji": "🇪🇺",
       "color": 10181046,
       "feeds": [
-        "https://www.politico.eu/feed/?lang=en",
-        "https://www.euractiv.com/en/feed/",
+        "https://www.politico.eu/section/politics/feed/rss/",
+        "https://www.euractiv.com/feed/",
         "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml"
       ]
     }
